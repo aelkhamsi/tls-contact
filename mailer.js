@@ -6,7 +6,7 @@ const template = `
   <h1>TLS Contact - Available Appointements</h1>
   <p> There is some available appointements</p>
 `;
-const recipents = ['achrafelkhamsi@gmail.com', 'ismailamsi@gmail.com'];
+const recipents = ['achrafelkhamsi@gmail.com', 'ismailkhamsi@gmail.com'];
 const mailOptions = {
   from: "TLS Contact Web Scrapper <scrapper@noreply.com>",
   to: recipents,
